@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "syafira-project",
+  "private_key_id": "4ead06769e1ea80236e229b24cd37b429f8b91bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhjc4WxDnWghE7\nvYZ9DEuhm3UcN62NEKRZ/ZGGjMQ21jPcs3j8TS7Sl+zMa9zXr0s6VWsWRa5h9gHk\n2eETKxi2AH09c8sYCm25+Oee8/Vm1YSpKpDpPRncTrhI6baIBdO5yKUrx3gIatha\nhtN4eth5G1F6gB4NpLNCpmp3R6StxpXtMZNz08fTTFPgkPTfez5oBBtNzZtl/iP9\nDs8dMp8lOGvHWkpNhqF+l6ztrpU26sa4KZp9wwx7gnNNAdZkmZ1DJkRkHo7j3LCc\npSOuub/L8YiBWxQoeRh8ASWzhek4Zu969DzE5Ru8BsWK+db8ODAL8f/IHhlWscQo\nv7VfWbSRAgMBAAECggEAAfXRGQNt74BgQRc4w07TXDFhPVxaQ7XloMLWdD92T9Xx\nG9GbO0GaNuIzQJROJjl3t1dBU89pmGA6hFw0o52R9Jh43isqxF/oU9e+/xOWkhUI\nVu5H1cAWQML2IOuXjpNy42wkC9crItMXY+OEtFkIdzZ6oPx6rmKMXIec2KIosyoo\nyhpbmCQadFF3uVlIkqF6PmNv5ChdjVHu9bzgKZcqRtRxCsLc/rfn2awZaJk0Om17\n5YYk+lCb++f47enT2mawCGxgNhFUecuw3QD++SHfVProgP6xXPp1bVpRWqMyIm3m\nx6uJeR70DNQZsfu3YxrGPnts72CiAjLiUOU/Vs/0IQKBgQD9EOdkCDGLmMdF2umz\nJZRCs3zWRPiOzZVIMqBxO9y9uH7xniPmxXw6TjxnBGBcEKrIhOL7j4pQ8gTshYWS\nrncJc/S7Yj4nivwMNs0zXD3lpZ6brTF0knU78Z+RtlmcKZ8Rdqs7H5nxnc0MEXmO\nen+Jo6AOlD+3J15msz1rNF4MYQKBgQDkKz7jUgmgTGvPNQptgOjdmEyZzQWcHe+o\nRx63HWOJYzAGlbBqoUiYbUEG9AOa7wniDH2m17WFraLLO+T7qm464JEu6herMDz2\n5mX7G6JFBVIPu/GA8fuzf7yWLBBXAIzWNALTOSxpVpgaIPe0CcDO+BLURbuLeJvr\nXX13AOkWMQKBgHT1aAvqYYOkE40sdNAQMSp2q96Xt8zAJRteEpri0M16RGlE7lDM\nuvJzkCUId8R1C4lrKUCcgY+Rm0b5GtfE/E0JI3WrHRDHgl/ewA3Ztt25IsnOTMoU\nmkwfCuGcRmQPNG4sy0yi+VIa3VaTiPuZj/I8BlBWoe/zKQUMF/nBFSphAoGBAMli\nshsJqZ1mVjGI6y9DfEU5y0JkhvMIKSMpwp50vgnhFd55+D/lIqIGrEJq1VPGb76o\nr6627WyTmQAwWScXgjtNQldaHpHl/akeKhy8gzjQPWHNzJa2/iWsNNOHCNUBk0zs\nkyHDcMN4vr8xIfAyO49xvYzGD4ZGabgPyFFk6FXBAoGBAKd46yFGwObTTcxZfJON\n8GctrLDd7wJhv4rHP16xi0Uc2XcmKdiZDl8ZGbAEGoTGGw1BE9ZAh89OCl27uAgc\nz3HMyUqu3/YMPmxYSjEH8xHt67wtulXSPV8k7cL9FBF29gczG/LlAyD3E3NjeTBU\nG7+VLpTY5sHxoiDapLawCr3U\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-syafira@syafira-project.iam.gserviceaccount.com",
+  "client_id": "115725417047053165707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-syafira%40syafira-project.iam.gserviceaccount.com"
+}
